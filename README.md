@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @trombonehead
-- 👀 I’m interested in learning basic coding. Specfically C## and HTML basics
+- 👀 I’m interested in learning basic coding. Specifically C## and HTML basics
 - 🌱 I’m currently learning HTML basics
 - 💞️ I’m looking to collaborate on nothing really. I really am just learning. Some assistance/guidance would be a great help. 
 - 📫 How to reach me through this forum. 
